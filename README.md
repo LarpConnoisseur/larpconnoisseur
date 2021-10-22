@@ -1,8 +1,9 @@
 Hi, Im LarpConnoisseur
 
+-👀 I’m currently making CocaineClient
+
 -🌱 I’m currently learning Java, Python, JavaScript, HTML, CSS and Node.js
 
--🎯 My first goal in the dev world is making my first Java project that is not a rename or skid
 
 ### Languages I know:
 
