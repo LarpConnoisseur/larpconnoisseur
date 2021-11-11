@@ -1,6 +1,6 @@
 Hi, Im LarpConnoisseur
 
--👀 I’m currently making CocaineClient
+-👀 I’m currently making CocaineClient and Project-Larp
 
 -🌱 I’m currently learning Java, Python, JavaScript, HTML, CSS and Node.js
 
